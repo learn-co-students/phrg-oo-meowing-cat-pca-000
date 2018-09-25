@@ -32,4 +32,7 @@ Run the test suite to get started. You'll be writing all your code in the `lib/m
 2. Use the `attr_accessor` macro to create a setter and getter method for a cat's name.
 4. Write a method, `.meow`, that outputs "meow!" to the terminal using the `puts` method when called on an instance of Cat.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-oo-meowing-cat/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-oo-meowing-cat/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Meowing Cat</p>
